@@ -6,4 +6,4 @@ NREL_Workplace_Arrival.py: Uses kernel density estimation to simulate workplace 
 
 evwatts.ipynb: find evidence of overstaying behavior in charging station.
 
-Working Place Data.ipynb: Average statistics of EV arrival at workplace to charge.
+Working Place Data.ipynb: Average EV arrival statistics at workplace to charge. The result will be passed to NREL_Workplace_Arrival.py to generate EV arrival stochastic simulation.
